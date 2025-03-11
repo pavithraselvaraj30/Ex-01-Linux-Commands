@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
 # NAME:pavithra s
-#REG NO:212223230147
+# REG NO:212223230147
 
 ## Aim:
 
